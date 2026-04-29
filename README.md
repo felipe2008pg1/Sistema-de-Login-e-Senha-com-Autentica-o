@@ -1,4 +1,4 @@
-**Version in Portuguese and English**
+**This project is available in Portuguese and English versions.**
 ------------------------------------------
 
 # SISTEMA DE LOGIN E SENHA COM AUTENTICAÇÃO | 🇧🇷 Português
